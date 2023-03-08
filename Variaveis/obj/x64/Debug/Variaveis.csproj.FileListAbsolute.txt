@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\bin\x64\Debug\Variaveis.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\bin\x64\Debug\Variaveis.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\bin\x64\Debug\Variaveis.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\obj\x64\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\obj\x64\Debug\Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\obj\x64\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\obj\x64\Debug\Variaveis.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\Variaveis\Variaveis\obj\x64\Debug\Variaveis.pdb
